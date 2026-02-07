@@ -1,0 +1,161 @@
+{
+  "book_id": "enlightenment_scottish_documentary_freedom_constraint",
+  "title": "The Constrained Light",
+  "tagline": "In a society that worships peace through control, one documentarian must decide whether to record the truth or become part of the lie.",
+  "target_words": 70000,
+  "actual_words": 69864,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Surveillance as Care",
+    "The Violence of Serenity",
+    "Documentation as Complicity",
+    "Wildness vs. Constraint",
+    "Personal Memory as Contraband"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Transit",
+      "words": 2911
+    },
+    {
+      "ch": 2,
+      "title": "Integration",
+      "words": 2911
+    },
+    {
+      "ch": 3,
+      "title": "The First Reflection",
+      "words": 2911
+    },
+    {
+      "ch": 4,
+      "title": "The Woman with White Knuckles",
+      "words": 2911
+    },
+    {
+      "ch": 5,
+      "title": "Non-Designated Textures",
+      "words": 2911
+    },
+    {
+      "ch": 6,
+      "title": "The Burn",
+      "words": 2911
+    },
+    {
+      "ch": 7,
+      "title": "Private Contemplation Cell 7",
+      "words": 2911
+    },
+    {
+      "ch": 8,
+      "title": "The Leica's Question",
+      "words": 2911
+    },
+    {
+      "ch": 9,
+      "title": "Directive 87-Alt",
+      "words": 2911
+    },
+    {
+      "ch": 10,
+      "title": "Fraser's Smile",
+      "words": 2911
+    },
+    {
+      "ch": 11,
+      "title": "The Cairn",
+      "words": 2911
+    },
+    {
+      "ch": 12,
+      "title": "Recalibration",
+      "words": 2911
+    },
+    {
+      "ch": 13,
+      "title": "The Lochan's Surface",
+      "words": 2911
+    },
+    {
+      "ch": 14,
+      "title": "A Chemical Truth",
+      "words": 2911
+    },
+    {
+      "ch": 15,
+      "title": "The Gold Star",
+      "words": 2911
+    },
+    {
+      "ch": 16,
+      "title": "Unsanctioned Frames",
+      "words": 2911
+    },
+    {
+      "ch": 17,
+      "title": "The Silent Archive",
+      "words": 2911
+    },
+    {
+      "ch": 18,
+      "title": "The Fossil's Weight",
+      "words": 2911
+    },
+    {
+      "ch": 19,
+      "title": "Guided Discourse",
+      "words": 2911
+    },
+    {
+      "ch": 20,
+      "title": "The Crack in Greenock",
+      "words": 2911
+    },
+    {
+      "ch": 21,
+      "title": "The Fury Beneath the Stillness",
+      "words": 2911
+    },
+    {
+      "ch": 22,
+      "title": "The Mechanism of Choice",
+      "words": 2911
+    },
+    {
+      "ch": 23,
+      "title": "The Unprocessed Answer",
+      "words": 2911
+    },
+    {
+      "ch": 24,
+      "title": "The Single, Non-Compliant Step",
+      "words": 2911
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Isla secretly uses the Leica for the first time inside the Centre. What does she choose to photograph, and what does she see through its viewfinder that her sanctioned cameras miss?",
+      "Create a journal entry from Fraser, the Senior Facilitator, revealing his private doubts about the Centre or a memory of what the glen was like before it was built.",
+      "Write the 'Civic Contribution Through Constraint' pamphlet that Isla reads on the Transit, in full. Make its language reveal the ideology of this society.",
+      "Imagine a conversation between Isla and the woman with the white knuckles from the refectory. Where does it happen, and what truth is exchanged?"
+    ],
+    "technical": [
+      "Design a 'Constraint Architecture' style guide: a set of rules for buildings, interiors, and soundscapes intended to enforce calm and compliance.",
+      "Build a 'Sanctioned Camera Unit' simulator: a simple image filter/processor that blurs, smooths, or removes 'non-designated textures' (like cracks, chaotic patterns, intense emotions) from uploaded images."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Margaret Atwood",
+      "Ursula K. Le Guin",
+      "John Berger",
+      "Andrei Tarkovsky"
+    ]
+  },
+  "cover_prompt": "A lone documentarian, their face a mask of conflicted resolve, holds a small, forbidden memory-crystal that glows with chaotic, wild light, while their other hand hesitates over the official lens of a sterile surveillance orb, [Detailed Scene & Context: set within a vast, serene control room of polished white stone and glowing blue data streams, where monolithic screens display perfectly tranquil cityscapes, yet cracks in the walls reveal glimpses of tangled, vibrant vines and flickering archival footage of unconstrained nature], [Artistic Style & Medium: in the atmospheric style of a modern cinematic painter like Simon Stålenhag combined with the textured, philosophical depth of Anselm Kiefer, using mixed media of oil paint, concrete, and embedded digital elements], [Composition & Camera: book cover framing, an intimate, centered composition with a dramatic low-angle shot that makes the glowing crystal the focal point, the subject caught between the oppressive architecture and the leaking wildness], [Lighting & Color Palette: stark, clinical cool-white LED lighting from the room contrasted with the warm, organic amber and gold light emanating from the crystal, casting long, conflicted shadows, color palette of constrained blues, grays, and whites violently interrupted by eruptions of deep green, burnt umber, and radiant yellow], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
