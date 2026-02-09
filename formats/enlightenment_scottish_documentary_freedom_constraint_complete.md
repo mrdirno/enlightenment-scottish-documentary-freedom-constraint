@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The rain on the roof of the Transit was a flat, tinny rattle, a sound that had long since stopped being weather and had become a condition of existence. Inside, the air was thick with the smell of damp wool, stale biscuits, and the low, animal warmth of thirty-seven people trying not to touch one another. I was thirty-eight. My knees were jammed against the seat-back in front, a pamphlet on ‘Civic Contribution Through Constraint’ wedged into the gap. I’d read it seven times. The seventh reading had revealed no new insights, only a profound despair at the typesetting.
+Edinburgh’s New Town smelled of wet mortar and ambition. From his window, John watched a mason carve a perfect, fluted column, each precise stroke a silent argument against the old, crooked wynds below.
+
+
 
 We were somewhere north of the Central Belt, the grey-green blur of the Lowlands having given way to a darker, more muscular grey. The hills were hunched under the weather like sleeping beasts. The Transit, a lumbering electric beast of its own, followed the designated route with a bovine certainty. No driver, of course. Just the soft, female voice of the Guidance System, announcing each Approved Viewpoint with serene indifference. *“On your left, the Cairn of Collective Remembrance. Please reflect inwardly on the virtue of unity.”* A lump of wet stones slid past the fogged window.
 
