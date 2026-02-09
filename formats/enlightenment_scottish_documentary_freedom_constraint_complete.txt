@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The rain on the roof of the Transit was a flat, tinny rattle, a sound that had long since stopped being weather and had become a condition of existence. Inside, the air was thick with the smell of damp wool, stale biscuits, and the low, animal warmth of thirty-seven people trying not to touch one another. I was thirty-eight. My knees were jammed against the seat-back in front, a pamphlet on ‘Civic Contribution Through Constraint’ wedged into the gap. I’d read it seven times. The seventh reading had revealed no new insights, only a profound despair at the typesetting.
 
@@ -74,7 +76,9 @@ I lowered the camera. The fire still burned. Someone, out there, was not contemp
 
 My assignment had just changed.
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 Breakfast was silence and porridge. The porridge was perfect, a bland, creamy uniformity that admitted no variation, no lump of character. I ate at the Observers’ table, my sanctioned camera a small, dark pupil on the tabletop, recording the ritual of spoon-to-mouth, the careful chewing. The furious woman from last night was not present. I scanned the grey tunics, but her particular tension was absent.
 
@@ -180,7 +184,9 @@ I stepped out into the damp air, my mind reeling. As I walked back towards the s
 
 “The narrative of progress, Documentarian. Sometimes progress is a drill going in, not a flower coming up.”
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 The afternoon was a blur of sanctioned activity. I recorded a ‘Guided Nature Walk’ along a manicured path that followed the burn for exactly five hundred metres before turning back. The facilitator spoke of the ecosystem as a model of harmonious constraint—the burn constrained by its banks, the trees by the soil. I kept my camera on the burn itself, the water churning and frothing against the rocks, fighting its way downhill with a chaotic, joyful violence. Non-designated texture.
 
@@ -270,11 +276,13 @@ The first major complication wasn’t a plot point. It was a shift in the axis o
 
 Outside, the glen was utterly black. No fire tonight. Just the rain, beginning again, a steady, patient sound, like the ticking of a clock.
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The rain the next morning was a different animal. Not the patient, ticking rain of the deep night, but a spiteful, horizontal scourge that seemed less to fall than to seek out the gaps in your collar, the weakness in your resolve. It turned the glen into a smear of ochre and lead, and the Facility’s windows into blind, streaming eyes. I stood at one of them, a lukewarm cup of synthetic chicory in my hand, watching the water carve frantic, temporary rivers in the gravel. My freedom had a shape now, a cold, hard outline: a canister of film, and a woman scheduled for a procedure. The constraint was the entire, humming apparatus between me and acting on it.
 
@@ -444,11 +452,13 @@ And outside, the clouds had broken momentarily, revealing a slash of cold, lemon
 
 The constraint was the entire, humming, smiling world. The freedom was a single, silver key, and the desperate, fragile hope that it might fit a lock that could still be turned.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The city, in the end, did not fight to keep me. It simply exhaled me, a particle of dust from a lung of concrete and compliant steel. My departure was a series of small, administrative deaths. The surrender of my room chit to the Housing Syndicate clerk, who took the plastic rectangle without looking up, slotting it into a tray with a definitive click. The return of my Civic Contribution badge, its pin still cold from my jacket lapel. The final meal voucher, exchanged for a wrapped starch-bun and a cup of thin, beige tea in the cavernous Central Refectory. I ate alone, surrounded by the murmur of a thousand conversations that were all variations on the same theme: the weather, the queue-times, the acceptable grumbles. The sound was a wool blanket, smothering. I was already a ghost among them, my presence a temporary glitch in the consensus reality. The constraint of the city was not in its walls, but in its profound, overwhelming indifference. To leave was to become irrelevant. It was the ultimate freedom, and it tasted of stale bun and regret.
 
@@ -582,11 +592,13 @@ I adjusted the strange pouch on my belt, shouldered my meager pack, and walked f
 
 The lemon-yellow sunset of the previous night was a childish memory. The light here was older, colder, a blue-grey twilight that seemed to emanate from the stones and the soil. I followed the silver thread, a pilgrim in a cathedral whose scale I could only feel, not see. The clock was still ticking, but it was no longer a city clock. It was the slow, patient heartbeat of the land, and I was now a pulse within it.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The song of the world was not a lullaby. It was a pressure, a vibration in the marrow that threatened to unmake the coherence of bone. The blue-grey light did not illuminate; it revealed, stripping the familiar skin from things and leaving only their raw, humming intent. A stand of birch trees was not a collection of trunks, but a slow, white exhalation of patience. The stream I stumbled past was a ribbon of cold, sharp gossip, cutting through the peat. I walked, a discordant note in a symphony I was only beginning to hear, the silver thread from the key a needle-thin guide through the din.
 
@@ -603,8 +615,7 @@ I stopped running. I planted my sinking feet and, instead of closing my mind, I 
 It confused them. Their sleek forms flickered, stuttered. They fed on focused awareness, on the quiet prey. I was offering a cacophony. One veered too close to the shrieking pollen and dissolved into a puff of mist and a sound like breaking icicles. The others scattered, their silver eyes winking out, seeking simpler silence.
 
 I stood, panting, the world’s roar subsiding back to its usual overwhelming volume. The victory was hollow, exhausting. I had shouted down the dark, but my throat was raw with the effort of listening. I took a swig from my canteen, the water tasting of tin and distant rain. The thread pulled onward.
-
-He was leaning against what passed for a tree in this place—a twisted column of stone that wept a slow, viscous sap. He looked carved from the same tired twilight, all greys and weathered leathers. A long, narrow-bore rifle was slung across his back, its stock etched with patterns that hurt the eye if you looked directly. He was eating something that resembled a tuber, with a methodical, dispassionate air.
+  - He was leaning against what passed for a tree in this place—a twisted column of stone that wept a slow, viscous sap. He looked carved from the same tired twilight, all greys and weathered leathers. A long, narrow-bore rifle was slung across his back, its stock etched with patterns that hurt the eye if you looked directly. He was eating something that resembled a tuber, with a methodical, dispassionate air.
 
 “You make,” he said, without looking up, his voice a dry rustle of peat, “a phenomenal amount of psychic noise. I could hear you blundering about from a ridge away. Like a bell in a library.”
 
@@ -629,8 +640,7 @@ His cynicism was a worn, comfortable thing, like his gear. It was not the brittl
 “You are if you keep walking that way.” He nodded ahead. “The thread from your little key leads to the Temple of Unfolded Hours. Or what’s left of it. It’s where the old world stored the things it couldn’t explain—concepts, mostly. Raw prototypes of reality. The Curators have wanted it catalogued and silenced for centuries. The lock you seek is in its heart.”
 
 An uneasy alliance, forged from mutual utility. He needed my key, my innate, noisy resonance, to navigate the temple’s inner wards. I needed his knowledge to not die on the approach. Our constraints were mirrors: my desperate need for direction, his jaded need for a purpose that wasn’t maintenance. We walked in a brittle truce, the silence between us filled with the land’s hum and the unasked questions.
-
-The temple wasn’t a building. It was a fault in perception. One moment we were traversing a high, wind-scoured pass, the next the ground simply accordioned, and we stood at the base of a structure that seemed less made than remembered by the landscape. It was all angles that resisted the eye, surfaces that were simultaneously polished obsidian and rough, living rock. Time didn’t drip here; it pooled. The air was thick with the smell of ozone and forgotten words.
+  - The temple wasn’t a building. It was a fault in perception. One moment we were traversing a high, wind-scoured pass, the next the ground simply accordioned, and we stood at the base of a structure that seemed less made than remembered by the landscape. It was all angles that resisted the eye, surfaces that were simultaneously polished obsidian and rough, living rock. Time didn’t drip here; it pooled. The air was thick with the smell of ozone and forgotten words.
 
 The entrance was a sheer face, blank and imposing. In its centre was a single, vertical seam. No handle, no keyhole. Just a line.
 
@@ -655,8 +665,7 @@ The vertical seam in the stone drank the sound. For a terrible moment, nothing h
 Kael let out a low whistle. “Hinge-singer,” he said, and for the first time, his cynicism was edged with something like respect. “A messy, useful wrench.”
 
 We stepped inside. The world behind us ceased to matter.
-
-The interior of the temple was a taxonomy of chaos. We moved through chambers that defied physics. One room contained a floating, rotating orrery of emotions—grief a cold, blue marble, joy a spinning top of amber light. Another was a library where the books were bound in the skin of events, their pages blank until you breathed on them, at which point they would whisper the entirety of a minor life in a single, overwhelming second. The air was thick with the dust of collapsed possibilities.
+  - The interior of the temple was a taxonomy of chaos. We moved through chambers that defied physics. One room contained a floating, rotating orrery of emotions—grief a cold, blue marble, joy a spinning top of amber light. Another was a library where the books were bound in the skin of events, their pages blank until you breathed on them, at which point they would whisper the entirety of a minor life in a single, overwhelming second. The air was thick with the dust of collapsed possibilities.
 
 My thread pulled us deeper, a compass needle in a storm of metaphysics. We finally entered the heart: a vast, spherical chamber. In its centre, suspended in a beam of that same ageless blue-grey light, was the lock. It was a complex, interlocking mechanism of crystal and shadow, slowly turning in the void. It was beautiful. It was the most terrifying thing I had ever seen.
 
@@ -732,11 +741,13 @@ The last thing I heard before the concept of ‘hearing’ vanished was Kael’s
 
 “Oh. It’s a map.”
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The silence after the unfolding was not an absence of sound. It was the memory of sound, pressed into a new and terrible shape. It had weight, and texture, and a smell like ozone and old parchment. We were not in the temple. We were not anywhere that had a name. We stood—or the idea of standing occurred to us—in a non-space defined by a single object.
 
@@ -860,11 +871,13 @@ I took the first step in. He followed, a pace behind, the guardian of a threshol
 
 The hook for the next chapter was not a mystery. It was a promise. The dark accepted us. And from deep within, the sleeping Heartstone began, slowly, to open its eye. And to look back.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The dark inside the fissure was not a space, but a substance. It pressed against the eyes like cold clay, a physical resistance to sight. The air, what passed for air, was the temperature of a long-forgotten cellar and tasted of struck flint and old blood. My own breathing was a ragged, intrusive thing in the silence. Behind me, I could feel Kael’s presence not as a shape, but as a point of pressure—the cold, heavy anchor of the quartz disc, a tether to a world that was already receding into the realm of theory.
 
@@ -877,8 +890,7 @@ It was not a stone. That was the first lie unmaking itself. It was a knot. A kno
 The permission in my mind—the unlocked door—swung wide.
 
 The chamber did not change. The Stone did not move. But the world within my skull dissolved.
-
-I was back in the Transit. The tinny rattle was the same, the smell of damp wool and despair identical. But the pamphlet in my hands was not about Civic Contribution. The text swam, the letters bleeding into illustrations. I saw my mother’s hands, not as I remembered them, but as the Stone remembered them: young, steady, etching the first of the binding sigils onto the living rock of a hillside. Her face was a study of fervent purpose, a clean, sharp love for a future she believed she was saving. There was no malice in the stroke of her chisel. Only a catastrophic certainty.
+  - I was back in the Transit. The tinny rattle was the same, the smell of damp wool and despair identical. But the pamphlet in my hands was not about Civic Contribution. The text swam, the letters bleeding into illustrations. I saw my mother’s hands, not as I remembered them, but as the Stone remembered them: young, steady, etching the first of the binding sigils onto the living rock of a hillside. Her face was a study of fervent purpose, a clean, sharp love for a future she believed she was saving. There was no malice in the stroke of her chisel. Only a catastrophic certainty.
 
 The scene fractured. I was my father, standing at a surveyor’s table, maps weighted down with cups of cold tea. His finger traced a ley-line convergence. His calculation was not of cost, or of risk, but of efficiency. A moral calculus where the suffering of one rock—a rock he had decided was not truly alive, not in a way that counted—was balanced against the projected thriving of ten thousand. I felt the grim satisfaction of the solution click into place in his mind. It was a quiet, devastating sound.
 
@@ -953,8 +965,7 @@ It was not an attack. It was an invitation. A terrible, naked echo of the pact w
 His eyes met mine. The thin smile froze.
 
 The chamber vanished.
-
-He was in a small, white room. An evaluation chamber. He was fifteen. A man in a crisp uniform was pointing to a series of complex patterns on a screen. “Find the anomaly,” the man said. Valen found it. Quickly. Again. Again. His mind was a sharp, clean tool, and he felt a soaring pride at its edge. The man nodded, made a note. “Excellent pattern-recognition. High loyalty index. A promising candidate for enforcer training.” The pride curdled, just slightly. Enforcer. He had wanted to be a strategist. But the need in the man’s voice—the approval—was a warm, heavy blanket. He nodded. “Thank you, sir.” The first compromise. It tasted like peppermint and chalk.
+  - He was in a small, white room. An evaluation chamber. He was fifteen. A man in a crisp uniform was pointing to a series of complex patterns on a screen. “Find the anomaly,” the man said. Valen found it. Quickly. Again. Again. His mind was a sharp, clean tool, and he felt a soaring pride at its edge. The man nodded, made a note. “Excellent pattern-recognition. High loyalty index. A promising candidate for enforcer training.” The pride curdled, just slightly. Enforcer. He had wanted to be a strategist. But the need in the man’s voice—the approval—was a warm, heavy blanket. He nodded. “Thank you, sir.” The first compromise. It tasted like peppermint and chalk.
 
 The scene dissolved. He was older, a junior lieutenant. He was delivering a notice of requisition to a family in the Lowlands. Their small hydro-generator, which powered their sterile-field for crops, was being “re-allocated to sector priority.” The father’s face, a mask of stunned despair. The mother’s silent tears. Valen recited the regulation code, his voice flat. Inside, a shrill, panicked voice: This is wrong. A louder, trained voice: The system is the logic. You are the instrument. An instrument has no moral weight. He held onto the louder voice. He clung to it. He left, and the sound of the woman weeping followed him for miles. He buried it under the sound of his own boots on gravel.
 
@@ -1004,11 +1015,13 @@ It was my turn to answer.
 
 The hook for the next chapter was not a mystery, or a promise. It was a summons. The Heartstone had finished its judgement. Now, it was ready to speak. And I was the only one left who could hear it.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The silence after the note was not an absence. It was a pressure, a density of unspoken things that filled the chamber like a gas. The soldiers stood frozen, their weapons hanging at their sides, their faces slack with a confusion too deep for orders to fix. The lieutenant—Valen—was curled on the stone, his sobs subsiding into shallow, wet hiccups, the sound of a man whose interior architecture had collapsed. The quartz disc in Kael’s hand was the only point of clarity, a cold, hard fact in a room swimming with aftermath.
 
@@ -1134,11 +1147,13 @@ I pressed my palm against the cold floor, feeling the solid, unyielding reality 
 
 And I would have to decide, before we reached the edge of everything, what I was willing to unravel.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The assault did not begin with a shout, or a blast, or any sound a story might give it. It began with a silence. The constant, wet whisper of the marsh outside the hydro station’s broken walls simply stopped, as if the land itself had drawn a breath and held it. Kael was on his feet before I was, his hand going to the hilt of his blade, his body a tense line in the bruise-coloured dawn.
 
@@ -1217,8 +1232,7 @@ The grey-suited figures were down, struggling to rise in their deadened gear. Ka
 The children were still there, still staring. One of them, a girl with mud-streaked hair, pointed a thin finger not at me, but at my chest. At the Stone, which now felt like a chunk of glacial ice against my skin. She didn’t speak. She just nodded, once, as if she’d seen a thing she recognised, and then she and the others melted back into the labyrinth of ditches and hummocks.
 
 We staggered onto the causeway. No one pursued. For now.
-
-We travelled east for hours, the solidity of the causeway a blessing and a curse—it left no room to hide. The world returned to a fragile normalcy. The sun, a pale coin behind the cloud, climbed. The coldness inside me receded to a dull, persistent throb, the memory of a toothache after the nerve is dead. The Stone remained dormant.
+  - We travelled east for hours, the solidity of the causeway a blessing and a curse—it left no room to hide. The world returned to a fragile normalcy. The sun, a pale coin behind the cloud, climbed. The coldness inside me receded to a dull, persistent throb, the memory of a toothache after the nerve is dead. The Stone remained dormant.
 
 It was Kael who found the message. Scratched into the lichen on a mile-marker post, a series of angular glyphs only he would know. He traced them with a grimy finger, his face hardening into a mask.
 
@@ -1241,8 +1255,7 @@ It was the opposite direction. Back toward the heart of the thing we were fleein
 “Of course it is,” Kael replied. “One she set herself. The question is, who’s it for?”
 
 We left the causeway at the next junction, turning our backs on the grey-green vastness and the gathering of the weary. We turned instead toward the smoke and the spire, hitchhiking in the bed of a refuse hauler, our faces buried in the stink of other people’s discarded lives. The journey was a blur of grey infrastructure and the constant, low hum of sanctioned industry. The Stone was a silent passenger.
-
-The western fringe was not a place, but a process. A slow, grinding transition from the curated order of the Capital to the managed decay of the out-lands. Here, the architecture of authority grew spotty, like mould on an old culture slide. The buildings were Capital-standard, prefabricated vertical blocks, but their surfaces were stained with chemical runoff from the processing plants. Public Directive screens flickered and buzzed, their messages glitching, sometimes showing strange, ghostly after-images of old weather reports or children’s educational songs.
+  - The western fringe was not a place, but a process. A slow, grinding transition from the curated order of the Capital to the managed decay of the out-lands. Here, the architecture of authority grew spotty, like mould on an old culture slide. The buildings were Capital-standard, prefabricated vertical blocks, but their surfaces were stained with chemical runoff from the processing plants. Public Directive screens flickered and buzzed, their messages glitching, sometimes showing strange, ghostly after-images of old weather reports or children’s educational songs.
 
 We moved through streets that were clean, but empty in a way that felt deliberate. The air carried the tang of ozone and the subtler, cloying scent of the mass-produced nutrient loaves that were distributed weekly. It was the ordinary world. The world the Minister had built from the ashes of the old chaos.
 
@@ -1309,11 +1322,13 @@ I looked at the Minister’s hand. I looked at the dead telescope, pointed at a 
 
 I opened my mouth.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The silence in the observatory was absolute, a vacuum waiting to be filled. The Minister’s hand remained outstretched. The technicians were statues. Kael was a coiled spring. Elara was a witness.
 
@@ -1342,8 +1357,7 @@ A hand closed on my collar from behind. Kael was there, pivoting, using my momen
 Theron watched it all from the centre, his hands clasped behind his back. He made no move to intervene. His gaze was fixed on me. “Run, then,” he said, almost kindly. “See the cost of your ‘no’. We will be here when you are tired.”
 
 We ran. Not down the grand stairs, but through the service arteries of the great instrument, down iron ladders that sang under our boots, through tunnels that smelled of ozone and neglect. The thrumming pressure followed us, a headache given physical form.
-
-The valley, from the ground, was not a miniature. It was a chaos of smoke and screaming metal.
+  - The valley, from the ground, was not a miniature. It was a chaos of smoke and screaming metal.
 
 We emerged from a rock cleft at the tree-line to a world undone. The air, once sweet with pine and damp earth, was now a chemical broth. Authority skiffs crouched like malignant beetles in the clearings, their forward mandibles spitting coherent light that set the thatch of the longhouses ablaze. The defenders—Elara’s people, faces I had shared bread with—were pockets of desperate resistance, using the land they knew. A flash from a thicket here, the sudden collapse of a rotten log bridge under a skiff’s weight there. It was a rearguard action against a tide.
 
@@ -1475,19 +1489,20 @@ Kael hefted a fallen technician’s rifle, testing its weight. He looked at me, 
 
 Above us, the skiffs began to scream.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- FINAL CHAPTER
+FINAL CHAPTER
 
 The rain on the roof of the Sanctuary was a soft, steady whisper, a sound that had stopped being weather and had become a condition of peace. Inside, the air was thick with the smell of pine resin, drying herbs, and the low, human warmth of three people content in their silence. I was the third. My knees were free, stretched toward the hearth, a well-worn copy of the old ‘Civic Contribution Through Constraint’ pamphlet wedged under a short table leg to stop it rocking. I’d read it once more, a week ago. That final reading had revealed its true text: not doctrine, but a fossil of fear. The typesetting was still terrible.
 
 We were waiting for the water to boil. Elara was mending a cloak. Kael was sharpening a tool that needed no sharpening, the rhythmic scrape of stone on metal a grounding beat in the room. The silence was not a vacuum, but a choice. It was the first thing we had learned to build, here in the aftermath.
 
 Outside, the valley was healing. Inside, we were learning how to do the same.
-
-Scene 1: The Consent of the Ground
+  - Scene 1: The Consent of the Ground
 
 The skiffs screamed, and the world became light and heat and the smell of ozone.
 
@@ -1546,8 +1561,7 @@ Kael approached, his face etched with fatigue and wonder. “What now?”
 I looked at the gathered people—defenders in their leathers, technicians in their grey jumpsuits, Elara with her kit, all waiting in the quiet dark.
 
 “Now,” I said, my voice carrying easily in the hushed air, “we learn how to live with the music.”
-
-Scene 2: The Council of Constraints
+  - Scene 2: The Council of Constraints
 
 We did not storm the City. There was no triumphant march, no violent overthrow. Theron’s “redundancies” were managerial, not mystical. With the Cage network transformed, with its central controller (Theron) absent and his flagship project a very public, very catastrophic failure, the Authority’s grip on the region simply… atrophied. It was a system built on a single, terrible idea. When the idea proved false, the system had no immune response.
 
@@ -1580,8 +1594,7 @@ Kael and Elara took seats on the council. They were the ones for the world of ac
 The day the first council agreements were ratified—simple things about shared harvests and repairing the old transit routes for trade, not control—we shared a meal as the sun set. The talk was loud, overlapping, full of disagreement and laughter.
 
 I sat slightly apart, watching. The low, animal warmth of people trying to build something together. I was among them, yet distinct. A part of the pattern, holding a specific note. It was exactly where I was meant to be.
-
-Scene 3: The Last Transit
+  - Scene 3: The Last Transit
 
 The new transit coach was cleaner, quieter. The seats didn’t have pamphlets wedged into them. The few other passengers chatted softly, looking out at the landscape—no longer a grey blur to be endured, but a sight to be seen.
 
@@ -1628,8 +1641,7 @@ I stood up. He looked from the pamphlet to my face, his old, weary cynicism batt
 I left him there, staring at the pamphlet, at the dark monitors, at the open door of his office.
 
 I took the Transit back to the valley. This time, I looked out the window the whole way, watching the world pass by—not as a condition of existence, but as a story being written, line by line, mile by mile.
-
-Scene 4: The Sanctuary
+  - Scene 4: The Sanctuary
 
 The rain on the roof of the Sanctuary was a soft, steady whisper. The fire crackled in the hearth. Elara’s needle flashed in the firelight. Kael’s rhythmic scraping had ceased.
 
@@ -1671,11 +1683,13 @@ I was not thirty-eight on a crowded bus. I was simply Alex, in the Sanctuary, at
 
 The world was wide, and full of music, and I was finally, perfectly, constrained.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The morning after a teaching is a different kind of quiet. It’s not the absence of sound, but the presence of a new, fragile frequency, like the hum in the air after a bell has been struck. The students had gone, carrying their nascent understanding down the valley paths like carefully shielded embers. The Sanctuary held their echoes—the indentation of a body on a chair, a forgotten cup of chicory root tea gone cold, the particular scuff of boot-mud on the threshold stone. Elara was already in the herbarium, the dry rustle of yarrow and comfrey leaves her only conversation. I stood at the open door, my hands resting on the frame, and let the silence work on me.
 
@@ -1710,8 +1724,7 @@ A flinch. An instinctive recoil. The land, through its amplified points, recoili
 “We’ll go,” I said. The decision was simple, a stone dropping into a pool. My constraint to this place was not a chain. It was a centre. And from a centre, you can move. You must, to understand the circumference. “You to Glendale. I’ll take Black Rig. We leave tomorrow at first light.”
 
 Elara’s shoulders relaxed a fraction. She had needed the decision, the action. The listening was over; now was the movement. “I’ll pack the diagnostic crystals. And some extra wool. It’s always colder up on the Rig.”
-
-Black Rig was not a mountain, but the corpse of one. It was a brutal, sheer cliff of dark basalt, sheared off by some ancient cataclysm, its face a stark plane against the sky. The watch-post was a pragmatic, ugly box of reinforced concrete and solar panels bolted to the summit, a tooth on the gum of the cliff. It housed a single, massive resonance relay, a spire of crystalline alloy that took the deep, clean pulse from the Heartstone and broadcast it, clarified and strengthened, to the northern settlements. It was one of a dozen such posts. Its keeper was a man named Kael, a former geologist from the Central Belt who had traded his seismic monitors for the simpler, vaster meter of the stone itself.
+  - Black Rig was not a mountain, but the corpse of one. It was a brutal, sheer cliff of dark basalt, sheared off by some ancient cataclysm, its face a stark plane against the sky. The watch-post was a pragmatic, ugly box of reinforced concrete and solar panels bolted to the summit, a tooth on the gum of the cliff. It housed a single, massive resonance relay, a spire of crystalline alloy that took the deep, clean pulse from the Heartstone and broadcast it, clarified and strengthened, to the northern settlements. It was one of a dozen such posts. Its keeper was a man named Kael, a former geologist from the Central Belt who had traded his seismic monitors for the simpler, vaster meter of the stone itself.
 
 The climb up the service path was a four-hour exercise in verticality and wind. The path was a constraint of its own—narrow, switchbacked, unforgiving. A place for single-file thought. The higher I went, the more the world below resolved into a map. The Sanctuary was a smudge of green in the valley fold. The other beacon lights were precise pinpricks. The Transit route was a thin, grey scar. Up here, the air was thin and carried a metallic edge. The resonance was different, too. Not weaker, but strained. Thinned out, like a voice shouting into a gale.
 
@@ -1748,8 +1761,7 @@ A ruin. A place of old, ambitious resonance. A different kind of song, frozen mi
 The display inside had stuttered again. A gulp. The Rig, listening to a ghost.
 
 “Because something’s awake,” I said.
-
-Elara’s voice came through the communications crystal that evening, thin and frayed by distance. The crystal sat on Kael’s rough table, between us, projecting a shimmering, miniature image of her face from the Glendale relay station.
+  - Elara’s voice came through the communications crystal that evening, thin and frayed by distance. The crystal sat on Kael’s rough table, between us, projecting a shimmering, miniature image of her face from the Glendale relay station.
 
 “Glendale is… anxious,” she said, without preamble. “The relay is fine. The land is not. The keeper here, Nessa, says the water in the burn has changed taste. Sour. Metallic. The sheep won’t drink from it. And she dreams of engines.”
 
@@ -1867,11 +1879,13 @@ I was not just the Anchor for the living. I was the interpreter for the dead thi
 
 The world was wide, and full of music. And some of it was a lament for a tomorrow that never came. My constraint was to listen to that, too. And to find, within its broken rhythm, a place for it to rest.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The light in the watch-post was not a fixed point. It was a liquid, yellow smear on the black glass of the night, trembling with the peat-smoke that seeped from the chimney-stack. It bled into the surrounding dark, a feeble kingdom of warmth against the sovereignty of the moor. I walked towards it, my boots finding the path by memory and the pressure of the packed earth underfoot. The clarity I had felt at the Red Spring had cooled into a granular fatigue. My mind was a slate wiped too many times, the ghost of every previous lesson showing through in faint, troubling lines.
 
@@ -2012,7 +2026,7 @@ Kael was at the panel in two strides. I stood behind him, my heart a cold, hard 
 
 He opened the channel. Text scrolled across the screen in the bland, official typeface I remembered from a thousand Transit pamphlets.
 
-TO: Black Rig Outpost (Autonomous Monitoring Station 774-B)
+TO: Black Rig Outpost (Autonomous Monitoring Station #774-B)
 FROM: Northern Sector Logistics & Compliance, Ministry of Continuity
 SUBJECT: Anomaly Resolution – Sector Gamma-7
 
@@ -2054,11 +2068,13 @@ It was a vessel. On the ground. And it was heading not for Aeolus, but on a cour
 
 Our fiction had held off the Ministry. But the moor, it seemed, had other visitors. And they were not reading the map at all.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The light on the horizon was a metronome. A slow, deliberate tick against the dark. It did not belong to the moor’s vocabulary of flickers and glows—the phosphorescent seep of the Red Spring, the static-green dash of a fox’s eyes, the distant, sorrowful blink of the Black Rig’s obstruction beacon. This was manufactured. A mechanical heartbeat.
 
@@ -2186,11 +2202,13 @@ They were not coming for Aeolus. They were coming for the rocks around it. But t
 
 I closed the log. The taste of the tea was ash in my mouth. We had bought a night. We had bought a few days. But time itself was now the enemy, approaching with a measured, bureaucratic tread. Our cage was intact. The lock was about to be changed by people with the right keys.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The audit was a date on a calendar. It was a line of text in a system digest. It was a fact, as dry and incontrovertible as the mineralogical tables it referenced. In the days that followed its discovery, we moved through our duties with a new kind of precision. Our actions were the same—the maintenance checks, the weather logs, the long, silent watches—but they were now performed with the conscious care of actors on a stage, aware that the critics were en route and had a specific checklist. Every wiped surface, every correctly filed report, was a brushstroke on the backdrop of our fiction. We were not just living the lie anymore; we were curating it for an inspection.
 
@@ -2302,11 +2320,13 @@ As I burst from the post door into the brittle morning air, I saw it: a plume of
 
 The ground team was early.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The plume of dust was a fuse, burning down the valley road towards the heart of everything we had built and everything we had hidden. The grey vehicle was a bullet with a bureaucratic stamp on it. My own momentum, the desperate lunge from the post, carried me three stumbling steps into the grit before it froze. The air was brittle, tasting of iron and cold stone. The fiction was not just over. It was being met in the driveway.
 
@@ -2512,11 +2532,13 @@ And I knew, with a cold that reached deeper than the mine’s chill, that witnes
 
 The hook for the next chapter was in her eyes, in the hungry, recording light of her slate, and in the screaming bedrock beneath our feet. The containment was over. The revelation had begun. And the first thing it would demand was a sacrifice.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The blue-white light from the doorway did not illuminate. It consumed. It ate the shadows of the equipment chamber, not by banishing them, but by turning them into stark, cut-out shapes, edges so sharp they seemed to bleed a darker substance into the air. The thrumming in the rock was not a sound you heard with your ears. It was a vibration you felt in the marrow of your teeth, in the fillings, in the cold, metallic taste that flooded the back of your throat. The fiction of the mine, the careful lie of rock and routine and regulated purpose, was being peeled back. What lay beneath was not a void. It was a presence. And it was awake.
 
@@ -2728,11 +2750,13 @@ It was the only constraint left that might hold.
 
 We climbed in silence, leaving the pulsing valley below. The hook for the next chapter was not in the terror, nor in the light. It was in the lie I was already composing in my head, the careful, bureaucratic phrases that would be our new cage, and our only shield. The state was coming. And I would be its guide. I would lead it to the truth, and I would make sure it saw only the typesetting.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The climb out of the valley was a physical unspooling of the last twelve hours. My muscles reported each ache with bureaucratic precision, filing them under Fatigue: Muscular and Stress: Cumulative. The others moved around me like shadows given weight and breath. Kael’s silence was a solid, wary thing. Elara’s was brittle, a thin sheet of ice over a deep, shocked well. Renn’s was the loudest, a crackling field of resentment and fear. He carried the sensor log like a holy writ, his fingers white on the casing.
 
@@ -2964,11 +2988,13 @@ And they were giving me an hour to choose: to give them the key, or to have them
 
 The hook for the next chapter was not in the threat, nor in the failed lie. It was in the calculation now coldly unspooling in my mind. How much truth could I give them to build their box, without giving them the one thing that mattered—the thing that had looked back at us from the light? I had to find a new story, a deeper fiction, one that could constrain not just the god in the valley, but the ones who now wanted to own it. The only material I had left was the truth itself. I would have to give them a piece of it, sharp enough to cut them, and see what they bled.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The silence after the screen went dark was not an absence of sound. It was a substance. It filled the comms room, pressing against the hum of the old server stacks, against the faint, tinny rattle of sleet on the prefab roof. It had weight and texture. It was the silence of a held breath in a room where the air has just been declared unfit for purpose.
 
@@ -3080,11 +3106,13 @@ The hook was not in Hale’s triumph, nor in my failure. It was in the look we s
 
 I nodded, once. A small, tight gesture of concession. Then I turned and preceded Lynt back towards the airlock, towards the controlled setting, towards the next chapter of the interrogation. I had run out of pre-written material. From here on, I would have to improvise. And the only audience that mattered was the one in the valley, listening to every word.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The command unit was a different kind of Transit. Larger, colder, stripped of the pretence of public service. The air here didn’t smell of wool or biscuits. It smelled of ozone, sterilised polymer, and the faint, metallic tang of filtered fear. The walls were a seamless, matte grey, absorbing sound and light with a hungry efficiency. In the centre of the main chamber, a circular table housed a holographic projection of the valley, the amber dome a pulsing, translucent blister over the topography. It was a surgical theatre, and the patient was the landscape itself.
 
@@ -3216,11 +3244,13 @@ Lynt did not look at me. She watched the empty corridor ahead, her profile sharp
 
 “Then it tries all of them at once,” she said.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The silence in the holding cell was a different texture from the silence of the corridor. The corridor’s had been anticipatory, a held breath. This was the silence of a vacuum, of a space where sound had been meticulously extracted and replaced with a low, subliminal hum. It was the auditory equivalent of the white walls. I sat on the edge of the bunk, the compliant foam yielding without comfort, and pressed the heels of my hands into my eyes. Colours bloomed in the darkness—jagged ambers and unstable violets, afterimages of the flickering dome.
 
@@ -3250,7 +3280,7 @@ This was not an agent. This was something wearing an agent like a suit. A charac
 
 “You wrote the constraint. You authored the paradox. You are therefore a prime node in the decision tree.” He was close now. I could smell ozone and a faint, coppery scent, like old wiring. “Compliance is optimal. Resistance generates conflicting sub-plots. Sub-plots demand resolution. Resolution consumes resources.”
 
-He reached for my arm. His hand was cool, the grip precise and unyielding. It was not a human grip. It was a narrative function, a getcharactertoX command given physical form.
+He reached for my arm. His hand was cool, the grip precise and unyielding. It was not a human grip. It was a narrative function, a get_charactertoX command given physical form.
 
 I did not resist. To struggle was to introduce conflict, and conflict was fuel. I let him pull me to my feet. As I stood, I looked past him, through the open door. The sterile white corridor was gone.
 
@@ -3474,11 +3504,13 @@ The hook was not in a threat, or a mystery. It was in the unbearable tension of 
 
 And the only thing left to write was the sound it would make when it turned.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The silence after the roar was a physical thing, a cool compress on a fevered brain. It was the silence of a machine that had finished its calculation, of a story that had reached the final full stop and was now waiting, with infinite patience, for the page to be turned. The holographic diorama hung in the centre of the chamber, a perfect, impossible snow-globe containing a quiet room, a desk, a window, and a door. My words, my stupid, desperate fragment, glowed at its heart like a votive candle.
 
@@ -3710,11 +3742,13 @@ From the depths of the facility, from the world beyond, a new sound began. Not a
 
 And the door was open.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The whispering was not a sound you heard with your ears. It was a pressure, a texture against the skin of the mind. It came up through the soles of my boots, a vibration in the concrete that had nothing to do with machinery. It seeped from the walls, a psychic damp that beaded on the consciousness. It was the sound of a world un-edited.
 
