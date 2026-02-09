@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The rain on the roof of the Transit was a flat, tinny rattle, a sound that had long since stopped being weather and had become a condition of existence. Inside, the air was thick with the smell of damp wool, stale biscuits, and the low, animal warmth of thirty-seven people trying not to touch one another. I was thirty-eight. My knees were jammed against the seat-back in front, a pamphlet on ‘Civic Contribution Through Constraint’ wedged into the gap. I’d read it seven times. The seventh reading had revealed no new insights, only a profound despair at the typesetting.
@@ -73,6 +75,8 @@ I raised the Leica, an instinct. I looked through the viewfinder, my finger rest
 I lowered the camera. The fire still burned. Someone, out there, was not contemplating a tether. They were lighting a fire in the rain.
 
 My assignment had just changed.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -179,6 +183,8 @@ The shed felt suddenly claustrophobic. The weight of the Leica in my case, back 
 I stepped out into the damp air, my mind reeling. As I walked back towards the sterile corridors, her final words followed me.
 
 “The narrative of progress, Documentarian. Sometimes progress is a drill going in, not a flower coming up.”
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
